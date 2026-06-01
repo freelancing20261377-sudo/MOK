@@ -26,7 +26,7 @@ export function Loader() {
               transition={{ duration: 0.8, ease: "easeOut" }}
               className="font-serif text-4xl md:text-6xl tracking-widest text-sand-900 dark:text-sand-50"
             >
-              LUMINA
+              MOK INTERIORS
             </motion.h1>
             <motion.div
               initial={{ scaleX: 0 }}

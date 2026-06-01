@@ -32,7 +32,7 @@ export function Footer() {
 
           <div className="lg:col-span-1">
             <a href="#" className="font-serif text-2xl tracking-widest uppercase text-sand-50 block mb-6">
-              Lumina
+              MOK INTERIORS
             </a>
             <p className="text-sand-400 font-light text-sm leading-relaxed max-w-xs mb-8">
               Designing timeless, luxury spaces that breathe elegant simplicity globally.

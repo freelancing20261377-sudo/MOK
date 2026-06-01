@@ -59,7 +59,7 @@ export function Navigation() {
         <a href="#" className={`font-serif text-2xl tracking-widest z-50 uppercase relative group transition-colors duration-300 ${
           isScrolled ? 'text-sand-900 dark:text-sand-50' : 'text-white'
         }`}>
-          Lumina
+          MOK INTERIORS
           <span className="absolute -bottom-1 left-0 w-0 h-[1px] bg-gold-500 transition-all duration-300 group-hover:w-full"></span>
         </a>
 
